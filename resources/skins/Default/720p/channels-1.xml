@@ -38,7 +38,7 @@
       <font>font_MainMenu</font>
       <textcolor>green</textcolor>
       <align>left</align>
-      <label>Stream</label>
+      <label>eternITA Serverless Streaming</label>
     </control>
     <control type="label" id="301">
       <posx>257</posx><posy>20</posy>
@@ -46,7 +46,7 @@
       <font>font_MainMenu</font>
       <textcolor>white</textcolor>
       <align>left</align>
-      <label>On Demand</label>
+      
     </control>
     <control type="label" id="302">
       <posx>477</posx><posy>20</posy>
@@ -54,7 +54,7 @@
       <font>font_MainMenu</font>
       <textcolor>red</textcolor>
       <align>left</align>
-      <label>PureITA</label>
+      
     </control>
 
     <!-- ---------------------------- -->
@@ -76,7 +76,7 @@
       <font>font10_title</font>
       <textcolor>FFCCCCCC</textcolor>
       <align>right</align>
-      <label>Stream On Demand PureITA 5.4.0</label>
+      <label>eternITA Serverless Streaming 1.0</label>
     </control>
 
     <control type="label">
@@ -85,7 +85,7 @@
       <font>font10_title</font>
       <textcolor>FFCCCCCC</textcolor>
       <align>right</align>
-      <label>10/Ottobre/2016</label>
+      <label>Gennaio/2017</label>
     </control>
 
     <!-- ---------------------------- -->

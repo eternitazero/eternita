@@ -38,7 +38,7 @@
       <font>font14</font>
       <textcolor>FFCCCCCC</textcolor>
       <align>left</align>
-      <label>Stream On Demand PureITA</label>
+      <label>eternITA Serverless Streaming</label>
     </control>
 
     <!-- ---------------------------- -->
@@ -60,7 +60,7 @@
       <font>font10_title</font>
       <textcolor>FFCCCCCC</textcolor>
       <align>right</align>
-      <label>Stream On Demand PureITA 5.4.0</label>
+      <label>eternITA Serverless Streaming 1.0</label>
     </control>
 
     <control type="label">
@@ -69,7 +69,7 @@
       <font>font10_title</font>
       <textcolor>FFCCCCCC</textcolor>
       <align>right</align>
-      <label>10/Ottobre/2016</label>
+      <label>Gennaio/2017</label>
     </control>
 
     <!-- ---------------------------- -->
