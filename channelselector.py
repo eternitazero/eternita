@@ -377,12 +377,12 @@ def get_thumbnail_path(preferred_thumb=""):
             thumbnail_type="2"
         
         if thumbnail_type=="0":
-            WEB_PATH = "https://raw.githubusercontent.com/orione7/Pelis_images/master/posters/"
+            WEB_PATH = "http://blobloblob.altervista.org/Pelis_images-master/posters/"
         elif thumbnail_type=="1":
-            WEB_PATH = "https://raw.githubusercontent.com/orione7/Pelis_images/master/banners/"
+            WEB_PATH = "http://blobloblob.altervista.org/Pelis_images-master/banners/"
         elif thumbnail_type=="2":
-            WEB_PATH = "https://raw.githubusercontent.com/orione7/Pelis_images/master/squares/"
+            WEB_PATH = "http://blobloblob.altervista.org/Pelis_images-master/squares/"
     else:
-        WEB_PATH = "https://raw.githubusercontent.com/orione7/Pelis_images/master/"+preferred_thumb+"/"
+        WEB_PATH = "http://blobloblob.altervista.org/Pelis_images-master/"+preferred_thumb+"/"
 
     return WEB_PATH
